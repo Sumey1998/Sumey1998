@@ -9,7 +9,7 @@ Detail-oriented professional with experience in *data analysis, dashboarding, SQ
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumeykalkundri1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeykalkundri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumey-kalkundri-598355220/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sumey1998)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sumey_sk?igsh=MjYxaDE3bTAza2Zy)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/SkSumey)
