@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sumeya Kalkundri 👋
-### Custom Software Analyst | Data Analyst | React Developer
+### Custom Software Data Analyst 
 
 Detail-oriented professional with experience in *data analysis, dashboarding, SQL, Python, Power BI, Tableau, and React-based frontend development*. I enjoy transforming complex datasets into actionable insights while also building intuitive user interfaces that make data more accessible and useful.
 
