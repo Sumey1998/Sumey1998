@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sumeya Kalkundri 👋
-### Custom Software Data Analyst 
+### Data Analyst 
 
 Detail-oriented professional with experience in *data analysis, dashboarding, SQL, Python, Power BI, Tableau, and React-based frontend development*. I enjoy transforming complex datasets into actionable insights while also building intuitive user interfaces that make data more accessible and useful.
 
@@ -9,7 +9,6 @@ Detail-oriented professional with experience in *data analysis, dashboarding, SQ
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumeykalkundri1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumey-kalkundri-598355220/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sumey1998)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sumey_sk?igsh=MjYxaDE3bTAza2Zy)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/SkSumey)
@@ -47,8 +46,28 @@ Detail-oriented professional with experience in *data analysis, dashboarding, SQ
 <br><br>
 
 # 💼 Experience
+### *Data Analyst*  
+*Global Technology Services*  
+📍 Pune, Maharastra  
+🗓️ Aug 2023 – Present
 
-### *Custom Software Analyst*  
+- Collected, cleaned, and transformed 1M+ records from SQL databases, Excel files, APIs, and cloud-based
+systems, improving data accuracy by 35% for enterprise reporting.
+- Developed and maintained interactive Power BI and Tableau dashboards to monitor KPIs including sales growth,
+revenue trends, profit margins, customer retention, and regional performance, enabling faster business
+decision-making by 40%
+- Wrote and optimized complex SQL queries, joins, CTEs, views, and stored procedures for large-scale data
+extraction, reporting, and analytical processing.
+- Automated Power BI dashboards using SQL data sources, reducing manual reporting effort by 40% and
+providing real-time insights on claims, policies, and operations.
+- Utilized Python libraries including Pandas, Numpy, and Matplotlib for exploratory data analysis (EDA), trend
+analysis, statistical reporting, and visualization of business insights.- Designed and implemented ETL workflows to integrate and transform data from multiple business applications
+into centralized reporting systems,improving data processing efficiency by 50%.
+- Improved dashboard and report performance by optimizing SQL queries, data models, DAX calculations, and
+Power BI datasets,reducing dashboard load time by 40%.
+
+
+### *Data Analyst*  
 *Accenture*  
 📍 Bengaluru, Karnataka  
 🗓️ Oct 2023 – Jul 2025
