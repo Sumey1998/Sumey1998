@@ -47,10 +47,10 @@ Detail-oriented professional with experience in *data analysis, dashboarding, SQ
 
 # 💼 Experience
 
-### *Data Analyst*  
-*Accenture*  
+### *Data Analyst at travelers *  
+*Global Technology Services*  
 📍 Bengaluru, Karnataka  
-🗓️ Oct 2023 – Jul 2025
+🗓️ Aug 2025 – present
 
 - Analyzed and processed large-scale insurance datasets (policy, claims, and operational metrics) to improve
 reporting accuracy and decision-making, contributing to 40% improvement in data quality insights.
@@ -64,6 +64,25 @@ providing real-time insights on claims, policies, and operations.
 and improve operational efficiency through data-driven insights.
 - Improved dashboard and report performance by optimizing SQL queries, data models, DAX calculations, and
 Power BI datasets,reducing dashboard load time by 40%.
+- Designed and implemented ETL workflows to integrate and transform data from multiple business applications
+into centralized reporting systems,improving data processing efficiency by 50%.
+
+### *Data Analyst *  
+*Accenture*  
+📍 Bengaluru, Karnataka  
+🗓️ Oct 2023 – July 2025
+
+- Collected, cleaned, and transformed 1M+ records from SQL databases, Excel files, APIs, and cloud-based
+systems, improving data accuracy by 35% for enterprise reporting.
+- Developed and maintained interactive Power BI and Tableau dashboards to monitor KPIs including sales growth,
+revenue trends, profit margins, customer retention, and regional performance, enabling faster business
+decision-making by 40%
+- Wrote and optimized complex SQL queries, joins, CTEs, views, and stored procedures for large-scale data
+extraction, reporting, and analytical processing.
+- Automated Power BI dashboards using SQL data sources, reducing manual reporting effort by 40% and
+providing real-time insights on claims, policies, and operations.
+- Utilized Python libraries including Pandas, Numpy, and Matplotlib for exploratory data analysis (EDA), trend
+analysis, statistical reporting, and visualization of business insights.
 - Designed and implemented ETL workflows to integrate and transform data from multiple business applications
 into centralized reporting systems,improving data processing efficiency by 50%.
 
